@@ -18,10 +18,10 @@ ini adalah flowchart dari program penghitung luas dan keliling lingkaran:
 FLOWCHART
 ![ing](ss/flowchart.png)
 
-untuk gambar 1, terdapat 2dua angka setelah koma
+untuk gambar 1, terdapat dua angka setelah koma
 ![ing](ss/luas1.png)
 
-untuk gambar ke 2, terdapat lebih dari dua setelah koma
+untuk gambar ke 2, terdapat lebih dari dua angka setelah koma
 ![ing](ss/luas2.png)
 
 TERIMAKASIH
