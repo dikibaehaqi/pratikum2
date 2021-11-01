@@ -1,6 +1,6 @@
 # pratikum3
 
-## Latihan lab 1, latihan 2 dan Tugas Latihan
+## Latihan lab 1, lab 2 dan Tugas Latihan
 
 ### membuat Lab 1 dan Lab 2
 tentang penggunaan end, penggunaan separator dan string format
